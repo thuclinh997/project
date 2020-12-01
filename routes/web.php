@@ -35,7 +35,7 @@ Route::group(['middleware' => 'locale'], function ()
 { 
     Route::middleware(['checklogin'])->group( function ()
     {
-        Route::get('/', [UserController::class, 'index'])
+        Route::get('/admin', [UserController::class, 'index'])
             ->name('home.admin');
         Route::resource('brands', BrandController::class)
             ->except(['create', 'edit', 'show']);
@@ -83,7 +83,7 @@ Route::group(['middleware' => 'locale'], function ()
         ->name('error');
 
     //-------------end backend----------------------
-    Route::prefix('index')->group( function ()
+    Route::prefix('/')->group( function ()
     {
         Route::get('/', [HomeController::class, 'index'])
             ->name('home');

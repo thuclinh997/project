@@ -19,28 +19,28 @@ class BrandsTableSeeder extends Seeder
             [
                 [
                     'name' => 'Samsung',
-                    'image' => 'Samsung42-b_25.jpg'
+                    'image' => 'samsungnew-220x48-1.png'
                 ],
                 [
                     'name' => 'Iphone',
-                    'image' => 'iPhone-(Apple)42-b_52.jpg'
+                    'image' => 'logo-iphone-220x48.png'
                 ],
                 [
                     'name' => 'Ipad',
-                    'image' => 'iPad-(Apple)522-b_28.jpg'
+                    'image' => 'iPad-(Apple)522-b_4.jpg'
                 ],
-                
+
                 [
                     'name' => 'Lenovo',
-                    'image' => 'Lenovo522-b_29.jpg'
+                    'image' => 'logo-lenovo-149x40.png'
                 ],
                 [
                     'name' => 'Dell',
-                    'image' => 'Dell44-b_2.jpg'
+                    'image' => 'logo-dell-149x40.png'
                 ],
                 [
                     'name' => 'Asus',
-                    'image' => 'asus.png'
+                    'image' => 'logo-asus-149x40.png'
                 ],
                 [
                     'name' => 'Vsmart',
@@ -48,7 +48,7 @@ class BrandsTableSeeder extends Seeder
                 ],
                 [
                     'name' => 'Oppo',
-                    'image' => 'OPPO42-b_27.png'
+                    'image' => 'OPPO42-b_5.jpg'
                 ]
             ]
         );

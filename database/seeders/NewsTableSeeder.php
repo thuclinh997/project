@@ -120,7 +120,7 @@ Samsung Galaxy S20 Ultra và Note 20 Ultra có màn hình QHD+, hỗ trợ tốc
 Để so sánh, Ice Universe tuyên bố rằng Galaxy S21 Ultra sắp tới sẽ hỗ trợ sự kết hợp của độ phân giải QHD+ và tốc độ làm tươi 120Hz.
 
 Galaxy S21 Ultra được tin sẽ có màn hình Dynamic AMOLED 6.8 inch, chạy Android 11, giao diện One UI 3.0. Máy có camera chính mặt sau 108 MP, có pin 5.000 mAh và sử dụng chip Snapdragon 875 hoặc Exynos 2100.',
-                    'post_image' => 'samsung-galaxy-s21-1_1280x720-800-resize.jpg',
+                    'post_image' => '1_1280x720-800-resize.jpg',
                     'date' => date('M-D-Y')
                 ],
                 [
