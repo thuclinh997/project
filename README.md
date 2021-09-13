@@ -3,7 +3,7 @@ php laravel
 # thiết kế và xây dựng bởi: Thục Linh - Phước Long
 ----------------------------------------------------------
 PHP LARAVEL CRUD
-<lTruy cập vào C:/xampp/htdocs, bật git bash và clone repository bằng câu lệnh : git clone https://github.com/thuclinh997/project.git</li>
+<li>Truy cập vào C:/xampp/htdocs, bật git bash và clone repository bằng câu lệnh : git clone https://github.com/thuclinh997/project.git</li>
 Khởi động XAMPP.
 Truy cập vào repository project và sử dụng câu lệnh : composer install --ignore-platform-reqs để cài đặt.
 Tạo file .env và copy dữ liệu file .env.example sang, chỉnh sửa kết nối đến database.
