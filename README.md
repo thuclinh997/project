@@ -9,7 +9,7 @@ php laravel
     <li>Tạo file .env và copy dữ liệu file .env.example sang, chỉnh sửa kết nối đến database.</li>
     <li>Tạo key cho ứng dụng bằng câu lệnh : php artisan key:generate</li>
     <li>Chạy php artisan migrate để tự động tạo bảng trong database đã thiết lập.</li>
-    <li>Chạy php artisan db:seed --class=UsersTableSeeder để seed dữ liệu vào bảng.</li>
+    <li>Chạy php artisan db:seed để seed dữ liệu vào bảng.</li>
     <li>Chạy php artisan serve để khởi tạo server ảo.</li>
     <li>Truy cập vào đường link đã tạo ở câu lệnh trên và tận hưởng thành q</li>
 </ol>
